@@ -27,11 +27,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imamanjangra&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
-<h3 align="left">🔝 Top Contributed Repo</h3>
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=imamanjangra&limit=5&theme=transparent&combine_all_yearly_contributions=true" />
-</p>
 
 <h3 align="left">🌐 Socials:</h3>
 
