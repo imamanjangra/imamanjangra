@@ -19,6 +19,13 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imamanjangra&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Imamanjangra@gmail.com) 
+
+<h3 align="left">🌐 Socials:</h3>
+
+<p align="left">
+  <a href="mailto:Imamanjangra@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+</p>
+![image](https://github.com/user-attachments/assets/ba3533a5-3e6c-402c-afc6-b5c779743bba)
 
