@@ -27,5 +27,5 @@
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
-![image](https://github.com/user-attachments/assets/ba3533a5-3e6c-402c-afc6-b5c779743bba)
+
 
