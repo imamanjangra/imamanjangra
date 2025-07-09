@@ -25,7 +25,6 @@
 </div>
 
 <h3 align="center">🌐 Socials:</h3>
-
 <p align="center">
   <a href="https://github.com/imamanjangra">
     <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge" />
