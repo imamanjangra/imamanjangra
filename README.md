@@ -31,15 +31,15 @@
   </a> 
 </p>
 
-<!-- GitHub stats in different lines -->
+<!-- GitHub stats with black background -->
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imamanjangra&show_icons=true&locale=en&layout=compact" alt="imamanjangra" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imamanjangra&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="imamanjangra" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imamanjangra&show_icons=true&locale=en" alt="imamanjangra" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imamanjangra&show_icons=true&locale=en&theme=highcontrast" alt="imamanjangra" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imamanjangra&" alt="imamanjangra" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imamanjangra&theme=highcontrast" alt="imamanjangra" />
 </p>
