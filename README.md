@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **java script**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
