@@ -9,9 +9,28 @@
 
 ## 🛠️ Tech Stack
 
-| Frontend | Backend | Tools | Languages |
-|---------|---------|-------|-----------|
-| [![Frontend](https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma&perline=3)](https://skillicons.dev) | [![Backend](https://skillicons.dev/icons?i=supabase,firebase&perline=2)](https://skillicons.dev) | [![Tools](https://skillicons.dev/icons?i=github,githubactions,vercel,vscode&perline=2)](https://skillicons.dev) | [![Languages](https://skillicons.dev/icons?i=c,cpp,java&perline=3)](https://skillicons.dev) |
+### Frontend
+![React](https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0A0A0A?style=for-the-badge&logo=tailwindcss)
+![Figma](https://img.shields.io/badge/Figma-0A0A0A?style=for-the-badge&logo=figma)
+
+### Backend
+![Express](https://img.shields.io/badge/Express-0A0A0A?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge&logo=mongodb)
+![Postman](https://img.shields.io/badge/Postman-0A0A0A?style=for-the-badge&logo=postman)
+![Nodemon](https://img.shields.io/badge/Nodemon-0A0A0A?style=for-the-badge&logo=nodemon)
+
+### Tools
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A0A0A?style=for-the-badge&logo=githubactions)
+![Git](https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git)
+![VS Code](https://img.shields.io/badge/VS_Code-0A0A0A?style=for-the-badge&logo=visualstudiocode)
+
+### Languages
+![Java](https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=java)
+![C++](https://img.shields.io/badge/C++-0A0A0A?style=for-the-badge&logo=cplusplus)
+![C](https://img.shields.io/badge/C-0A0A0A?style=for-the-badge&logo=c)
+
 
 <hr>
 
