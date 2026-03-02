@@ -16,10 +16,10 @@
 ![Figma](https://img.shields.io/badge/Figma-0A0A0A?style=for-the-badge&logo=figma)
 
 ### Backend
+![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-0A0A0A?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge&logo=mongodb)
 ![Postman](https://img.shields.io/badge/Postman-0A0A0A?style=for-the-badge&logo=postman)
-![Nodemon](https://img.shields.io/badge/Nodemon-0A0A0A?style=for-the-badge&logo=nodemon)
 
 ### Tools
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A0A0A?style=for-the-badge&logo=githubactions)
