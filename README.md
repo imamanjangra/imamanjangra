@@ -14,12 +14,14 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0A0A0A?style=for-the-badge&logo=tailwindcss)
 ![Figma](https://img.shields.io/badge/Figma-0A0A0A?style=for-the-badge&logo=figma)
+![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-0A0A0A?style=for-the-badge&logo=shadcnui)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-0A0A0A?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge&logo=mongodb)
 ![Postman](https://img.shields.io/badge/Postman-0A0A0A?style=for-the-badge&logo=postman)
+![Supabase](https://img.shields.io/badge/Supabase-0A0A0A?style=for-the-badge&logo=supabase)
 
 ### Tools
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A0A0A?style=for-the-badge&logo=githubactions)
