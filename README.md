@@ -20,6 +20,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-0A0A0A?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-0A0A0A?style=for-the-badge&logo=redis)
 ![Postman](https://img.shields.io/badge/Postman-0A0A0A?style=for-the-badge&logo=postman)
 ![Supabase](https://img.shields.io/badge/Supabase-0A0A0A?style=for-the-badge&logo=supabase)
 
