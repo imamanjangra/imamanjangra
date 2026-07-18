@@ -12,6 +12,8 @@
 ### Frontend
 ![React](https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript)
+![Redux](https://img.shields.io/badge/Redux-0A0A0A?style=for-the-badge&logo=redux)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0A0A0A?style=for-the-badge&logo=tailwindcss)
 ![Figma](https://img.shields.io/badge/Figma-0A0A0A?style=for-the-badge&logo=figma)
 ![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-0A0A0A?style=for-the-badge&logo=shadcnui)
