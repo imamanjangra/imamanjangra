@@ -7,44 +7,39 @@
 
 <hr>
 
-## 🛠️ Tech Stack
+###  🛠️ Tech Stack
 
-### Frontend
+### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript)
 ![Redux](https://img.shields.io/badge/Redux-0A0A0A?style=for-the-badge&logo=redux)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0A0A0A?style=for-the-badge&logo=tailwindcss)
-![Figma](https://img.shields.io/badge/Figma-0A0A0A?style=for-the-badge&logo=figma)
 ![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-0A0A0A?style=for-the-badge&logo=shadcnui)
+![Figma](https://img.shields.io/badge/Figma-0A0A0A?style=for-the-badge&logo=figma)
 
-### Backend
+### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-0A0A0A?style=for-the-badge&logo=express)
+![Zod](https://img.shields.io/badge/Zod-0A0A0A?style=for-the-badge&logo=zod)
+
+### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql)
 ![Redis](https://img.shields.io/badge/Redis-0A0A0A?style=for-the-badge&logo=redis)
-![Postman](https://img.shields.io/badge/Postman-0A0A0A?style=for-the-badge&logo=postman)
 ![Supabase](https://img.shields.io/badge/Supabase-0A0A0A?style=for-the-badge&logo=supabase)
 
-### Tools
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A0A0A?style=for-the-badge&logo=githubactions)
+### 🛠️ Tools
 ![Git](https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-0A0A0A?style=for-the-badge&logo=visualstudiocode)
+![Postman](https://img.shields.io/badge/Postman-0A0A0A?style=for-the-badge&logo=postman)
 
-### Languages
+### 💻 Other Languages
 ![Java](https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=java)
 ![C++](https://img.shields.io/badge/C++-0A0A0A?style=for-the-badge&logo=cplusplus)
 ![C](https://img.shields.io/badge/C-0A0A0A?style=for-the-badge&logo=c)
 
-
-<hr>
-
-# 📊 GitHub Stats
-
-<p>
-  <img src="https://readme-stats-fork-mauve.vercel.app/api/?username=imamanjangra&theme=dark&show_icons=true&count_private=true" />
-</p>
 
 <hr>
 
